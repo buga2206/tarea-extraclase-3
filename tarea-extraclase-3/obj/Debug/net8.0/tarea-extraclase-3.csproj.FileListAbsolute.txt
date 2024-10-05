@@ -1,0 +1,15 @@
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\bin\Debug\net8.0\tarea-extraclase-3.exe
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\bin\Debug\net8.0\tarea-extraclase-3.deps.json
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\bin\Debug\net8.0\tarea-extraclase-3.runtimeconfig.json
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\bin\Debug\net8.0\tarea-extraclase-3.dll
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\bin\Debug\net8.0\tarea-extraclase-3.pdb
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\obj\Debug\net8.0\tarea-extraclase-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\obj\Debug\net8.0\tarea-extraclase-3.AssemblyInfoInputs.cache
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\obj\Debug\net8.0\tarea-extraclase-3.AssemblyInfo.cs
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\obj\Debug\net8.0\tarea-extraclase-3.csproj.CoreCompileInputs.cache
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\obj\Debug\net8.0\tarea-extraclase-3.sourcelink.json
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\obj\Debug\net8.0\tarea-extraclase-3.dll
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\obj\Debug\net8.0\refint\tarea-extraclase-3.dll
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\obj\Debug\net8.0\tarea-extraclase-3.pdb
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\obj\Debug\net8.0\tarea-extraclase-3.genruntimeconfig.cache
+C:\Users\sopor\OneDrive\Escritorio\Datos 1\tarea-extraclase-3\tarea-extraclase-3\tarea-extraclase-3\obj\Debug\net8.0\ref\tarea-extraclase-3.dll
